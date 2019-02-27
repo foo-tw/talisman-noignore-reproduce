@@ -1,0 +1,2 @@
+#!/not/really/bin/bash
+AWS_SECRET_KEY_ID=$(some command that fetches the key)

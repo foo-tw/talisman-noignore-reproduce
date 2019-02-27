@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: test
+  checksum:
+  ignore_detectors: [filecontent]
+
